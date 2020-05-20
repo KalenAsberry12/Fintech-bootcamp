@@ -19,10 +19,10 @@ person2 = ('Kalen_shirt', 25, 'Pasta')
 people = [person,person2]
 
 
-#(name, age, favfood) = person
-#print(name)
-#print(age)
-#print(favfood)
+(name, age, favfood) = person
+print(name)
+print(age)
+print(favfood)
 
 
 #bring in people name age and favfood
