@@ -5,13 +5,13 @@ print(t[0])
 print()
 
 # consistant number that can not be changed
-#credit_card = (123456781234, 'Kalen Asberry', '12/20', 123)
+credit_card = (123456781234, 'Kalen Asberry', '12/20', 123)
 
-#credit_card2 = (123456781234, 'Kalen Asberry', '12/20', 123)
+credit_card2 = (123456781234, 'Kalen Asberry', '12/20', 123)
 # stuck in a list
-#credit_cards = [credit_card,credit_card2]
+credit_cards = [credit_card,credit_card2]
 
-#print(credit_cards)
+print(credit_cards)
 
 person = ('Nancy-Pants', 25, 'Pizza')
 person2 = ('Kalen_shirt', 25, 'Pasta')
